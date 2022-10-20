@@ -1,2 +1,1 @@
-# Trexanimado
-un Trex que salta obstaculos 
+# Juegos-compatibles-con-dispositivos
